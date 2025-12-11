@@ -3,13 +3,16 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Md. Atiqul Islam",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "three": "^0.179.1",
     "vite": "^7.1.3"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
